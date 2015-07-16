@@ -1,0 +1,3 @@
+version #v4.1#
+messageNewV #ChangeLogs\n- Fixed Getlanguage detection\n- Fixed Request CC flag\n- Fixed xxxxx\n#
+messageOldV #Please download latest version at this address\n http://clashofclansbot.ddng.net/v4.1.zip\n#
