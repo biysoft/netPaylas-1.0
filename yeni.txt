@@ -1,1 +1,1 @@
-gator4211.hostgator.com/~ddng/clashofclansbot,https,clashofclansbot.ddng.net,1,1.1.0.0,
+gator4211.hostgator.com/~ddng/clashofclansbot,https,clashofclansbot.ddng.net,0,1.1.0.0,
